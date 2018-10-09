@@ -1,0 +1,1 @@
+log.textContent = 'test'
